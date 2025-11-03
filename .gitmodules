@@ -4,3 +4,6 @@
 [submodule "vault_tokens"]
 	path = vault_tokens
 	url = https://github.com/vilmapato/vault_tokens.git
+[submodule "Escrow_token"]
+	path = Escrow_token
+	url = https://github.com/vilmapato/Escrow_token.git
