@@ -1,0 +1,6 @@
+[submodule "Token_PATS"]
+	path = Token_PATS
+	url = https://github.com/vilmapato/Token_PATS.git
+[submodule "vault_tokens"]
+	path = vault_tokens
+	url = https://github.com/vilmapato/vault_tokens.git
